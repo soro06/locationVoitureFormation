@@ -4,7 +4,7 @@
 	<meta charset ="utf8">
 	<title> Formation git </title>
 </head>
-<body style="background-color:#1abc9c">
+<body style="background-color:#bdc3c7">
 
 <h1 style="padding-top:20%; padding-bottom:20%; text-align:center;color:#ffffff"> Location de voitures anciennes</h1>
 
