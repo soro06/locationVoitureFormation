@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset ="utf8">
+	<title> Formation git </title>
+</head>
+<body style="background-color:#1abc9c">
+<?php echo "initiatilisation a git" ;
+?>
+<h1 style="padding-top:20%; padding-bottom:20%; text-align:center"> Location de voitures anciennes</h1>
+
+</body>
+</html>
